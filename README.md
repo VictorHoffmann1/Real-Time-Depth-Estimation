@@ -14,6 +14,7 @@ On this repository, we'll learn how to use MiDaS to estimate the depth of a room
 
 - A jupyter notebook, containing all the necessary code to load and execute MiDaS on our example (be careful, the pretrained_weight of the medium version of MiDaS have a size of 500MB).
 - A data folder, containing the video whoose depth we're going to estimate.
+- The output video in .mp4 format.
 
 # Credits: 
 Victor Hoffmann
